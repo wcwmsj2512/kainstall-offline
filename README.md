@@ -97,4 +97,4 @@
 
 ## License
 
-MIT.
+MIT
